@@ -22,6 +22,13 @@ AI CareerMatch addresses these problems by combining **Generative AI, Resume Ana
 
 The user simply uploads their resume in PDF format and pastes a job description. The application then generates a personalized career analysis.
 
+## 🌐 Live Demo
+
+🚀 **Try AI CareerMatch:**  
+https://ai-careermatch-bzjxbumesd8zxabyqxva7d.streamlit.app/
+
+> Upload a resume PDF and paste a job description to generate an AI-powered career analysis, skill-gap report, personalized learning roadmap, resume suggestions, and interview preparation.
+
 ---
 
 ## ✨ Key Features
